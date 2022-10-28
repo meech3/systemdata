@@ -52,6 +52,7 @@
   },
   "homepage": "https://github.com/meech3/systemdata#readme",
   "dependencies": {
+    "picocolors": "^1.0.0",
     "systeminformation": "^5.12.11"
   }
 }
