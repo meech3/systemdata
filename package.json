@@ -52,7 +52,9 @@
   },
   "homepage": "https://github.com/meech3/systemdata#readme",
   "dependencies": {
+    "camelcase": "^7.0.0",
     "picocolors": "^1.0.0",
-    "systeminformation": "^5.12.11"
+    "systeminformation": "^5.12.11",
+    "table": "^6.8.0"
   }
 }
