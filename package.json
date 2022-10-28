@@ -50,5 +50,8 @@
   "bugs": {
     "url": "https://github.com/meech3/systemdata/issues"
   },
-  "homepage": "https://github.com/meech3/systemdata#readme"
+  "homepage": "https://github.com/meech3/systemdata#readme",
+  "dependencies": {
+    "systeminformation": "^5.12.11"
+  }
 }
