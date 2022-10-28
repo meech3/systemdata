@@ -1,0 +1,54 @@
+{
+  "name": "systemdata",
+  "version": "1.0.0",
+  "description": "System information library for the command-line",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "check": "npx prettier --check .",
+    "write": "npx prettier --write ."
+  },
+  "bin": {
+    "sys": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meech3/systemdata.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "system",
+    "data",
+    "information",
+    "cpu",
+    "memory",
+    "battery",
+    "graphics",
+    "operating",
+    "system",
+    "os",
+    "process",
+    "service",
+    "disk",
+    "file",
+    "system",
+    "fs",
+    "usb",
+    "printer",
+    "audio",
+    "network",
+    "wifi",
+    "bluetooth",
+    "docker",
+    "virtual",
+    "box"
+  ],
+  "author": "Mitchell Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meech3/systemdata/issues"
+  },
+  "homepage": "https://github.com/meech3/systemdata#readme"
+}
